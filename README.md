@@ -1,1 +1,1 @@
-node HTTP-KILL.js <url> <time> <threads> <rate> proxy.txt
+HTTP Layer 7 traffic simulation for analyzing server response and protection systems.
